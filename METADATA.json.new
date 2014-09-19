@@ -1,0 +1,32 @@
+{
+  "name": "Butcherman Caps",
+  "designer": "Typomondo",
+  "license": "OFL",
+  "visibility": "Internal",
+  "category": "Display",
+  "size": 44712,
+  "fonts": [
+    {
+      "name": "Butcherman Caps",
+      "style": "normal",
+      "weight": 400,
+      "filename": "ButchermanCaps-Regular.ttf",
+      "postScriptName": "ButchermanCaps-Regular",
+      "fullName": "Butcherman Caps",
+      "copyright": "Copyright (c) 2011, Typomondo, with Reserved Font Name  \"Butcherman\"."
+    },
+    {
+      "name": "Butcherman Caps",
+      "style": "normal",
+      "weight": 400,
+      "filename": "ButchermanCaps-Regular-TTF.ttf",
+      "postScriptName": "ButchermanCaps-Regular",
+      "fullName": "Butcherman Caps",
+      "copyright": "Copyright (c) 2011, Typomondo, with Reserved Font Name  \"Butcherman\"."
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2011-10-24"
+}
